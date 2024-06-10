@@ -1,16 +1,15 @@
-
 # Nombre del laboratorio
 
 Este texto es una descripción general del proyecto. Se debe de sustituir por el contenido
 que el instructor decida agregar. 
 
-## Objetivos
+## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
 - objetivo1
 - objetivo2
 - objetivo3
 
-## Objetivo visual 
+## Objetivo Visual 
 Crear un diagrama o imagen que resuma las actividades a realizar. Se espera que el alumno pueda implementar el siguiente contenido. 
 
 ![diagrama1](../images/img1.png)
@@ -23,7 +22,11 @@ Crear un diagrama o imagen que resuma las actividades a realizar. Se espera que 
         </div>
 </div>
 
+## Duración aproximada:
+xx minutos.
 
+## Tabla de ayuda:
+Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
 
 ## Instrucciones 
 ### Configuración de contenedor mysql
