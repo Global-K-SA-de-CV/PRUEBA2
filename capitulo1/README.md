@@ -13,14 +13,6 @@ Al finalizar la práctica, serás capaz de:
 Crear un diagrama o imagen que resuma las actividades a realizar. Se espera que el alumno pueda implementar el siguiente contenido. 
 
 ![diagrama1](../images/img1.png)
-<div style=" width: 200px; height: 150px; background-color: black;">
-        <h1 style="color:gold; text-align: center;">COMENTARIO</h1>
-        <div style="padding-left:4px;">
-            <textarea style="color: greenyellow; font-size: 14px; background-color: black; height: 70px;">
-                Esta imagen tiene algunos problemas de formato
-            </textarea>
-        </div>
-</div>
 
 ## Duración aproximada:
 xx minutos.
