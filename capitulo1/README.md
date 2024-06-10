@@ -1,18 +1,17 @@
 
-# Nombre Laboratorio
+# Nombre del laboratorio
 
 Este texto es una descripción general del proyecto. Se debe de sustituir por el contenido
 que el instructor decida agregar. 
 
 ## Objetivos
+Al finalizar la práctica, serás capaz de:
 - objetivo1
 - objetivo2
 - objetivo3
-- objetivo4
 
-
-## Diagrama (Opcional / se puede cambiar por introducción)
-Se espera que el alumno pueda implementar el siguiente contenido. 
+## Objetivo visual 
+Crear un diagrama o imagen que resuma las actividades a realizar. Se espera que el alumno pueda implementar el siguiente contenido. 
 
 ![diagrama1](../images/img1.png)
 <div style=" width: 200px; height: 150px; background-color: black;">
