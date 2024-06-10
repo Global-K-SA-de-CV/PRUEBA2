@@ -24,12 +24,16 @@ Agregar una tabla con la información que pueda requerir el participante durante
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
 ### Tarea 1. Descripción de la tarea a realizar.
 Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+
 Paso 2. <!-- Añadir instrucción -->
+
 Paso 3. <!-- Añadir instrucción -->
 
 ### Tarea 2. Descripción de la tarea a realizar.
 Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+
 Paso 2. <!-- Añadir instrucción -->
+
 Paso 3. <!-- Añadir instrucción -->
 
 ### Resultado esperado
