@@ -1,61 +1,41 @@
+# Nombre del laboratorio 
 
-# Nombre Laboratorio
+## Objetivo de la práctica:
+Al finalizar la práctica, serás capaz de:
+- Objetivo1
+- Objetivo2
+- Objetivo3
 
-Este texto es una descripción general del proyecto. Se debe de sustituir por el contenido
-que el instructor decida agregar. 
-
-## Objetivos
-- objetivo1
-- objetivo2
-- objetivo3
-- objetivo4
-
-
-## Diagrama (Opcional / se puede cambiar por introducción)
-Se espera que el alumno pueda implementar el siguiente contenido. 
+## Objetivo Visual 
+Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
 ![diagrama1](../images/img1.png)
 
+## Duración aproximada:
+- xx minutos.
+
+## Tabla de ayuda:
+Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
+| Contraseña | Correo | Código |
+| --- | --- | ---|
+| Netec2024 | edgardo@netec.com | 123abc |
 
 ## Instrucciones 
-### Configuración de contenedor mysql
-1. Crear una red con el siguiente comando
-```shell
-docker network create --subnet 10.0.0.0/16 --gateway 10.0.0.1 red2
-```
+<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
+### Tarea 1. Descripción de la tarea a realizar.
+Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-2. Ahora crearemmos el contenedor del servidor virtual de mysql. 
+Paso 2. <!-- Añadir instrucción -->
 
-- Usar el siguiente comando: 
+Paso 3. <!-- Añadir instrucción -->
 
-```shell
-docker run --name mysqlserver -e MYSQL_ROOT_PASSWORD=1234 -e MYSQL_DATABASE=traducciones --network mired -d mysql:8.0
-```
+### Tarea 2. Descripción de la tarea a realizar.
+Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-- En el comando tenemos los siguientes datos:
-    - User: root
-    - Password: 1234
-    - Database: traducciones
-    - Network: mired
-    - Name: mysqlserver 
-> [!IMPORTANT]
-> Recordar el nombre del contenedor ya que lo usaremos más adelante. 
+Paso 2. <!-- Añadir instrucción -->
 
-
-### Configuración de contenedor backend y frontend
-Para esta secciones necesitaremos el contenido de nuestro repositorio en la carpeta capitulo1
-
-1. Descargar el archivo de la siguiente ruta
-https://github.com/EdgardoVelasco/SeguridadApisCourse/tree/master/capitulo2
-
-- En el repositorio encontraremos el siguiente contenido. 
-![imagen repositorio](../images/img2.png)
-
-
-
+Paso 3. <!-- Añadir instrucción -->
 
 ### Resultado esperado
 En esta sección se debe mostrar el resultado esperado de nuestro laboratorio
 ![imagen resultado](../images/img3.png)
-
-
