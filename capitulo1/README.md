@@ -1,16 +1,13 @@
-# Nombre del laboratorio
-
-Este texto es una descripción general del proyecto. Se debe de sustituir por el contenido
-que el instructor decida agregar. 
+# Nombre del laboratorio 
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- objetivo1
-- objetivo2
-- objetivo3
+- Objetivo1
+- Objetivo2
+- Objetivo3
 
 ## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar. Se espera que el alumno pueda implementar el siguiente contenido. 
+Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
 
 ![diagrama1](../images/img1.png)
 
@@ -19,6 +16,8 @@ xx minutos.
 
 ## Tabla de ayuda:
 Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
+| Contraseña | Correo |
+| Netec2024 | edgardo@netec.com |
 
 ## Instrucciones 
 ### Configuración de contenedor mysql
